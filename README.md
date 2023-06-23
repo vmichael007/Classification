@@ -1,2 +1,2 @@
 # Classification
-My first repository on GitHub
+Repository on GitHub
